@@ -1,4 +1,3 @@
-
 # {{PROBLEM}} Function Design Recipe
 
 Copy this into a `recipe.md` in your project and fill it out.
@@ -6,25 +5,24 @@ Copy this into a `recipe.md` in your project and fill it out.
 ## 1. Describe the Problem
 
 As a user
-So that I can manage my time
-I want to see an estimate of reading time for a text, assuming that I can read 200 words a minute.
+So that I can improve my grammar
+I want to verify that a text starts with a capital letter and ends with a suitable sentence-ending punctuation mark.
 
 ## 2. Design the Function Signature
 
 _Include the name of the function, its parameters, return value, and side effects._
 
 ```python
-def estimate_reading_time(text):
+def check_grammar(text):
     
     pass
-calculates reading time from the length of the text 
+checks that a text starts with a capital letter and ends with punctuation (of any appropriate kind)
 
 parameters: 
     text: a string with words
 
 returns:
-    estimated_time: string including int (rounded number rather than a float) representing the time (in minutes)
-                OR BONUS: a string showing the time expected (in hours and minutes)
+    True if the text is grammatically correct or False if it is not
 side effects:
     hopefully none?
 
@@ -37,21 +35,19 @@ _Make a list of examples of what the function will take and return._
 ```python
 # EXAMPLE
 
-#if the string is less than 200 words, return 'less than a minute' for the estimated time
+#check for capitalization at the beginning of the text
 
-estimate_reading_time('I am a tiny little sentence') => 'Estimated reading time: less than a minute.'
+check_grammar('I am a sentence.') => True
 
-# if the string is empty, return 'please provide a text'
+# check for punctuation at the end
 
-estimate_reading_time('') => 'Please provide a text.'
+check_grammar('I am still a sentence') => True
 
-# if the string is 200+ words, return estimated reading time
+# check for other alternative punctuation that isn't just a period
 
-estimate_reading_time(long_sample_text) => 'Estimated reading time: {insert reading time here}'
+check_grammar('I am a yelling sentence!') => True
 
-# if the string is so long that it takes more than 59 minutes to read, return estimated time in hours and minutes
 
-estimate_reading_time(really_long_sample_text) => 'Estimated reading time: {insert reading time in hours and minutes}
 ```
 
 _Encode each example as a test. You can add to the above list as you go._
