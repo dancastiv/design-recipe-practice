@@ -531,3 +531,153 @@ It must have been some imp of the perverse—or some sardonic pull from dark, hi
      “Matt he didn’t like this business at all, an’ wanted Obed shud keep away from the island; but the Cap’n was sharp fer gain, an’ faound he cud git them gold-like things so cheap it ud pay him to make a specialty of ’em. Things went on that way fer years, an’ Obed got enough o’ that gold-like stuff to make him start the refinery in Waite’s old run-daown fullin’ mill. He didn’t dass sell the pieces like they was, fer folks ud be all the time askin’ questions. All the same his crews ud git a piece an’ dispose of it naow and then, even though they was swore to keep quiet; an’ he let his women-folks wear some o’ the pieces as was more human-like than most.
      “Wal, come abaout ’thutty-eight—when I was seven year’ old—Obed he faound the island people all wiped aout between v’yages. Seems the other islanders had got wind o’ what was goin’ on, an’ had took matters into their own hands. S’pose they musta had, arter all, them old magic signs as the sea-things says was the only things they was afeard of. No tellin’ what any o’ them Kanakys will chance to git a holt of when the sea-bottom throws up some island with ruins older’n the deluge. Pious cusses, these was—they didn’t leave nothin’ standin’ on either the main island or the little volcanic islet excep’ what parts of the ruins was too big to knock daown. In some places they was little stones strewed abaout—like charms—with somethin’ on ’em like what ye call a swastika naowadays. Prob’ly them was the Old Ones’ signs. Folks all wiped aout, no trace o’ no gold-like things, an’ none o’ the nearby Kanakys ud breathe a word abaout the matter. Wouldn’t even admit they’d ever ben any people on that island.
 """
+
+# word count: 1,067 (1069 with title)
+the_raven = """
+Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore—
+    While I nodded, nearly napping, suddenly there came a tapping,
+As of some one gently rapping, rapping at my chamber door.
+“’Tis some visitor,” I muttered, “tapping at my chamber door—
+            Only this and nothing more.”
+
+    Ah, distinctly I remember it was in the bleak December;
+And each separate dying ember wrought its ghost upon the floor.
+    Eagerly I wished the morrow;—vainly I had sought to borrow
+    From my books surcease of sorrow—sorrow for the lost Lenore—
+For the rare and radiant maiden whom the angels name Lenore—
+            Nameless here for evermore.
+
+    And the silken, sad, uncertain rustling of each purple curtain
+Thrilled me—filled me with fantastic terrors never felt before;
+    So that now, to still the beating of my heart, I stood repeating
+    “’Tis some visitor entreating entrance at my chamber door—
+Some late visitor entreating entrance at my chamber door;—
+            This it is and nothing more.”
+
+    Presently my soul grew stronger; hesitating then no longer,
+“Sir,” said I, “or Madam, truly your forgiveness I implore;
+    But the fact is I was napping, and so gently you came rapping,
+    And so faintly you came tapping, tapping at my chamber door,
+That I scarce was sure I heard you”—here I opened wide the door;—
+            Darkness there and nothing more.
+
+    Deep into that darkness peering, long I stood there wondering, fearing,
+Doubting, dreaming dreams no mortal ever dared to dream before;
+    But the silence was unbroken, and the stillness gave no token,
+    And the only word there spoken was the whispered word, “Lenore?”
+This I whispered, and an echo murmured back the word, “Lenore!”—
+            Merely this and nothing more.
+
+    Back into the chamber turning, all my soul within me burning,
+Soon again I heard a tapping somewhat louder than before.
+    “Surely,” said I, “surely that is something at my window lattice;
+      Let me see, then, what thereat is, and this mystery explore—
+Let my heart be still a moment and this mystery explore;—
+            ’Tis the wind and nothing more!”
+
+    Open here I flung the shutter, when, with many a flirt and flutter,
+In there stepped a stately Raven of the saintly days of yore;
+    Not the least obeisance made he; not a minute stopped or stayed he;
+    But, with mien of lord or lady, perched above my chamber door—
+Perched upon a bust of Pallas just above my chamber door—
+            Perched, and sat, and nothing more.
+
+Then this ebony bird beguiling my sad fancy into smiling,
+By the grave and stern decorum of the countenance it wore,
+“Though thy crest be shorn and shaven, thou,” I said, “art sure no craven,
+Ghastly grim and ancient Raven wandering from the Nightly shore—
+Tell me what thy lordly name is on the Night’s Plutonian shore!”
+            Quoth the Raven “Nevermore.”
+
+    Much I marvelled this ungainly fowl to hear discourse so plainly,
+Though its answer little meaning—little relevancy bore;
+    For we cannot help agreeing that no living human being
+    Ever yet was blessed with seeing bird above his chamber door—
+Bird or beast upon the sculptured bust above his chamber door,
+            With such name as “Nevermore.”
+
+    But the Raven, sitting lonely on the placid bust, spoke only
+That one word, as if his soul in that one word he did outpour.
+    Nothing farther then he uttered—not a feather then he fluttered—
+    Till I scarcely more than muttered “Other friends have flown before—
+On the morrow he will leave me, as my Hopes have flown before.”
+            Then the bird said “Nevermore.”
+
+    Startled at the stillness broken by reply so aptly spoken,
+“Doubtless,” said I, “what it utters is its only stock and store
+    Caught from some unhappy master whom unmerciful Disaster
+    Followed fast and followed faster till his songs one burden bore—
+Till the dirges of his Hope that melancholy burden bore
+            Of ‘Never—nevermore’.”
+
+    But the Raven still beguiling all my fancy into smiling,
+Straight I wheeled a cushioned seat in front of bird, and bust and door;
+    Then, upon the velvet sinking, I betook myself to linking
+    Fancy unto fancy, thinking what this ominous bird of yore—
+What this grim, ungainly, ghastly, gaunt, and ominous bird of yore
+            Meant in croaking “Nevermore.”
+
+    This I sat engaged in guessing, but no syllable expressing
+To the fowl whose fiery eyes now burned into my bosom’s core;
+    This and more I sat divining, with my head at ease reclining
+    On the cushion’s velvet lining that the lamp-light gloated o’er,
+But whose velvet-violet lining with the lamp-light gloating o’er,
+            She shall press, ah, nevermore!
+
+    Then, methought, the air grew denser, perfumed from an unseen censer
+Swung by Seraphim whose foot-falls tinkled on the tufted floor.
+    “Wretch,” I cried, “thy God hath lent thee—by these angels he hath sent thee
+    Respite—respite and nepenthe from thy memories of Lenore;
+Quaff, oh quaff this kind nepenthe and forget this lost Lenore!”
+            Quoth the Raven “Nevermore.”
+
+    “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!—
+Whether Tempter sent, or whether tempest tossed thee here ashore,
+    Desolate yet all undaunted, on this desert land enchanted—
+    On this home by Horror haunted—tell me truly, I implore—
+Is there—is there balm in Gilead?—tell me—tell me, I implore!”
+            Quoth the Raven “Nevermore.”
+
+    “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!
+By that Heaven that bends above us—by that God we both adore—
+    Tell this soul with sorrow laden if, within the distant Aidenn,
+    It shall clasp a sainted maiden whom the angels name Lenore—
+Clasp a rare and radiant maiden whom the angels name Lenore.”
+            Quoth the Raven “Nevermore.”
+
+    “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting—
+“Get thee back into the tempest and the Night’s Plutonian shore!
+    Leave no black plume as a token of that lie thy soul hath spoken!
+    Leave my loneliness unbroken!—quit the bust above my door!
+Take thy beak from out my heart, and take thy form from off my door!”
+            Quoth the Raven “Nevermore.”
+
+    And the Raven, never flitting, still is sitting, still is sitting
+On the pallid bust of Pallas just above my chamber door;
+    And his eyes have all the seeming of a demon’s that is dreaming,
+    And the lamp-light o’er him streaming throws his shadow on the floor;
+And my soul from out that shadow that lies floating on the floor
+            Shall be lifted—nevermore!
+
+"""
+# word count: 500 (501 with title)
+lorem = """
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed enim sit amet eros sagittis lacinia a egestas ligula. Donec lacus libero, molestie et facilisis eu, luctus sed ante. Fusce vehicula mi a augue imperdiet, eu suscipit leo convallis. Vivamus fermentum sodales tortor quis dignissim. Suspendisse lacinia in lectus at consectetur. Nulla sit amet ligula fringilla magna porttitor ornare id eget sapien. Morbi vestibulum euismod nibh id ornare. Phasellus at molestie justo. Vivamus quis lorem nec nunc iaculis aliquam sodales cursus purus. Morbi sollicitudin neque eu mi interdum, vitae sodales nibh efficitur. Nunc eleifend dolor tincidunt porttitor aliquam. Suspendisse quis dolor et magna tincidunt imperdiet sit amet quis ipsum. Praesent nec ornare ipsum, sit amet molestie mauris. Vestibulum non vulputate magna, sed commodo ipsum. Nam vel rutrum enim.
+
+In consequat nulla aliquam nisl tristique mattis. Curabitur id pharetra ante. Aliquam suscipit ligula tortor, condimentum blandit arcu suscipit semper. Aliquam erat volutpat. In ut eros hendrerit, lacinia risus eu, dapibus justo. Ut tristique pharetra magna, nec ullamcorper diam convallis sit amet. Quisque dolor magna, lobortis et eros ut, fringilla lobortis nisi. Vivamus in convallis turpis. In imperdiet varius mi sit amet congue. Ut condimentum rhoncus orci, nec pellentesque erat sollicitudin quis. Vivamus fermentum laoreet suscipit. Phasellus non dui et libero facilisis tempus.
+
+Cras congue magna ut justo posuere, at volutpat enim auctor. Sed non placerat velit. Duis rhoncus dapibus imperdiet. Aliquam eu facilisis nulla. Donec orci nibh, posuere nec accumsan quis, finibus eu elit. Proin vel lacus a nibh pulvinar luctus. Cras id purus ut ex malesuada laoreet ac et mauris. Vestibulum eget tristique nibh.
+
+Nunc id justo pellentesque, cursus turpis et, bibendum elit. Etiam lorem magna, volutpat a congue eget, rhoncus et metus. Proin vitae laoreet tellus, id ornare felis. In elementum, arcu interdum tincidunt congue, orci dolor iaculis quam, sed molestie mi lacus a ante. Sed tincidunt hendrerit lacus consectetur maximus. Morbi volutpat dapibus tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque in sem sit amet dui euismod elementum sit amet vel nisl. Fusce id laoreet ipsum. Nunc tincidunt rhoncus ligula. Donec sit amet facilisis erat. Nam posuere metus sit amet lorem consectetur, quis condimentum libero ornare. Vivamus ac libero a mi imperdiet sodales sit amet et nisi. Proin nec faucibus lectus.
+
+Vivamus justo diam, ultricies suscipit accumsan a, hendrerit quis odio. Sed libero felis, pretium vitae elementum quis, vehicula at ante. Vestibulum in egestas arcu. Nulla facilisi. Integer venenatis interdum tincidunt. Quisque dictum erat ac massa sollicitudin, vel dapibus orci sollicitudin. Vestibulum sed egestas massa.
+
+Aliquam in tempus nisi. Aenean tristique auctor ullamcorper. Morbi mattis velit sed metus tincidunt molestie. Sed efficitur ex non ex tempus lacinia. Integer ultricies lectus in magna dignissim, eu pretium augue tempor. Sed mollis, diam sed auctor auctor, nibh augue accumsan risus, sit amet luctus augue nulla tincidunt nulla. Maecenas a mauris purus. Phasellus ex lacus, egestas id lectus sed, aliquet hendrerit nibh. Vestibulum luctus eu sapien ut pharetra. Sed finibus tellus a blandit sagittis. Proin.
+"""
+
+lorem_2_min_chunk = """Lorem: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed enim sit amet eros sagittis lacinia a egestas ligula. Donec lacus libero, molestie et facilisis eu, luctus sed ante. Fusce vehicula mi a augue imperdiet, eu suscipit leo convallis. Vivamus fermentum sodales tortor quis dignissim. Suspendisse lacinia in lectus at consectetur. Nulla sit amet ligula fringilla magna porttitor ornare id eget sapien. Morbi vestibulum euismod nibh id ornare. Phasellus at molestie justo. Vivamus quis lorem nec nunc iaculis aliquam sodales cursus purus. Morbi sollicitudin neque eu mi interdum, vitae sodales nibh efficitur. Nunc eleifend dolor tincidunt porttitor aliquam. Suspendisse quis dolor et magna tincidunt imperdiet sit amet quis ipsum. Praesent nec ornare ipsum, sit amet molestie mauris. Vestibulum non vulputate magna, sed commodo ipsum. Nam vel rutrum enim.
+In consequat nulla aliquam nisl tristique mattis. Curabitur id pharetra ante. Aliquam suscipit ligula tortor, condimentum blandit arcu suscipit semper. Aliquam erat volutpat. In ut eros hendrerit, lacinia risus eu, dapibus justo. Ut tristique pharetra magna, nec ullamcorper diam convallis sit amet. Quisque dolor magna, lobortis et eros ut, fringilla lobortis nisi. Vivamus in convallis turpis. In imperdiet varius mi sit amet congue. Ut condimentum rhoncus orci, nec pellentesque erat sollicitudin quis. Vivamus fermentum laoreet suscipit. Phasellus non dui et libero facilisis tempus.
+Cras congue magna ut justo posuere, at volutpat enim auctor. Sed non placerat velit. Duis rhoncus dapibus imperdiet. Aliquam eu facilisis nulla. Donec orci nibh, posuere nec accumsan quis, finibus eu elit. Proin vel lacus a nibh pulvinar luctus. Cras id purus ut ex malesuada laoreet ac et mauris. Vestibulum eget tristique nibh.
+Nunc id justo pellentesque, cursus turpis et, bibendum elit. Etiam lorem magna, volutpat a congue eget, rhoncus et metus. Proin vitae laoreet tellus, id ornare felis. In elementum, arcu interdum tincidunt congue, orci dolor iaculis quam, sed molestie mi lacus a ante. Sed tincidunt hendrerit lacus consectetur maximus. Morbi volutpat dapibus tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque in sem sit amet dui euismod elementum sit amet vel nisl. Fusce id laoreet ipsum. Nunc tincidunt rhoncus ligula. Donec sit amet facilisis erat. Nam posuere metus sit amet lorem consectetur, quis condimentum libero ornare. Vivamus ac libero a mi imperdiet sodales sit amet et nisi. Proin nec faucibus lectus.
+Vivamus justo diam, ultricies suscipit accumsan a, hendrerit quis odio. Sed libero felis, pretium vitae elementum quis, vehicula at ante."""
