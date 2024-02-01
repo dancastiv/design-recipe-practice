@@ -28,7 +28,10 @@ def test_reading_time():
 # test that given a wpm and an amount of minutes, return the chunk that will be read in that amount of time
 # if called again, check it returns the next chunk
     
-# def test_reading_chunk():
-#     diary_entry = DiaryEntry('Lorem', lorem)
-#     chunk = diary_entry.reading_chunk(200, 2)
-#     assert chunk == lorem_2_min_chunk
+def test_reading_chunk():
+    diary_entry = DiaryEntry('Lorem', lorem)
+    chunk = diary_entry.reading_chunk(200, 2)
+    assert chunk == lorem_2_min_chunk
+    chunk = diary_entry.reading_chunk(200, 2)
+    assert chunk == lorem_remaining_chunk
+    
