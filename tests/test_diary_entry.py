@@ -34,4 +34,5 @@ def test_reading_chunk():
     assert chunk == lorem_2_min_chunk
     chunk = diary_entry.reading_chunk(200, 2)
     assert chunk == lorem_remaining_chunk
-    
+    chunk = diary_entry.reading_chunk(200, 2)
+    assert chunk == lorem_2_min_chunk
