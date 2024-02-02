@@ -6,21 +6,16 @@ class TodoList:
         self.todo_list.append(task)
 
     def incomplete(self):
-        # Returns:
-        #   A list of Todo instances representing the todos that are not complete
-        pass
+        incomplete_tasks = [task for task in self.todo_list if task.complete == False]
+        return incomplete_tasks
 
     def complete(self):
-        # Returns:
-        #   A list of Todo instances representing the todos that are complete
-        pass
+        complete_tasks = [task for task in self.todo_list if task.complete == True]
+        return complete_tasks
 
     def give_up(self):
-        # Returns:
-        #   Nothing
-        # Side-effects:
-        #   Marks all todos as complete
-        pass
+        [task.mark_complete() for task in self.todo_list]
+        self.complete()
 
 # outdated
     def show_list(self):

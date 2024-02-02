@@ -4,16 +4,10 @@ class Todo:
     #   complete: a boolean representing whether the task is complete
 
     def __init__(self, task):
-        # Parameters:
-        #   task: a string representing the task to be done
-        # Side-effects:
-        #   Sets the task property
-        #   Sets the complete property to False
-        pass
+        if task == '':
+            raise Exception('Task cannot be blank. Please provide a task.')
+        self.task = task
+        self.complete = False
 
     def mark_complete(self):
-        # Returns:
-        #   Nothing
-        # Side-effects:
-        #   Sets the complete property to True
-        pass
+        self.complete = True
